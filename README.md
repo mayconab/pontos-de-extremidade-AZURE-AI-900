@@ -66,5 +66,3 @@ Página desenvolvida para fins didáticos para o curso *Microsoft - AZURE AI-900
   }
 }
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
